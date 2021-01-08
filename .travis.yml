@@ -3,6 +3,6 @@ arch:
     - ppc64le
 language: node_js
 node_js:
-  - 4
+  - "15"
 script:
   npm test
